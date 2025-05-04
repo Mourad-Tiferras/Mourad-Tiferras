@@ -19,11 +19,11 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp; ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) &nbsp; ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) &nbsp; ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-## 🚀 Interests
+## 🚀 My Interests
 
-- 📊 **Data Structures & Algorithms (DSA)** — Enhancing problem-solving and algorithmic thinking.
-- 🌐 **Web Development** — Building modern, responsive, and user-friendly web applications.
-- 🔐 **Web Security** — Passionate about securing web applications and understanding vulnerabilities.
+- 📊 **Data Structures & Algorithms (DSA)**
+- 🌐 **Web Development**
+- 🔐 **Web Security** 
 
 
 # 📊 GitHub Stats:

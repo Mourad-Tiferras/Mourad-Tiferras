@@ -1,8 +1,6 @@
 # &nbsp; &nbsp; Welcome to my profile &nbsp; :)  <br>
 <p>
-   <img align="center" src="https://i.pinimg.com/originals/9f/75/a7/9f75a735e474d9b8c127fd5383717f44.gif" alt="mourad tiferras">
-
-   <img align="right" src="https://i.giphy.com/dLolp8dtrYCJi.webp" alt="mourad tiferras">
+   <img align="center" src="https://media.licdn.com/dms/image/v2/D4E16AQGU2S-83Oxdkw/profile-displaybackgroundimage-shrink_350_1400/B4EZk_xPjjIkAY-/0/1757711498119?e=1760572800&v=beta&t=Ld1QyB3P8T37B3yfzD6mDNYyFR9rN8KXV6eXcm2fUHs" alt="mourad tiferras">
    <br>
 </p>
 <br>
@@ -10,10 +8,15 @@
 # 💫 WhoamI:
 
 <h3>
+   <img align="left" src="https://i.giphy.com/dLolp8dtrYCJi.webp" alt="mourad tiferras">
    &nbsp;  &nbsp;  &nbsp; I'm Mourad (just a simple person) with a great passion to all thing related to IT, and electronics from a very young age. I'm a drop-out CS (computer science) student after 2y and half. Currently, I have just started self-learning in IT and trying harder while navigating through life.<br> 
    <br> 
    &nbsp;  &nbsp;  &nbsp; I've chosen the path of self-learning to grow my skills in software development, with a strong focus on discovering vulnerabilities in code. I'm passionate about breaking the things developers build not only to destroy, but also to make them stronger.
+   <br>
 </h3>
+
+<br>
+<br>
 
 
 # 💻 Tech Stack:

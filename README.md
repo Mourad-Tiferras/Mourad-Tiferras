@@ -8,7 +8,7 @@
 # 💫 WhoamI:
 
 <h3>
-   <img align="left" src="https://i.giphy.com/dLolp8dtrYCJi.webp" alt="mourad tiferras">
+   <img align="left" src="https://i.pinimg.com/1200x/d6/17/65/d61765bcf71b83f38d704d480a5e319f.jpg" width="300" hieght="300" alt="mourad tiferras">
    &nbsp;  &nbsp;  &nbsp; I'm Mourad (just a simple person) with a great passion to all thing related to IT, and electronics from a very young age. I'm a drop-out CS (computer science) student after 2y and half. Currently, I have just started self-learning in IT and trying harder while navigating through life.<br> 
    <br> 
    &nbsp;  &nbsp;  &nbsp; I've chosen the path of self-learning to grow my skills in software development, with a strong focus on discovering vulnerabilities in code. I'm passionate about breaking the things developers build not only to destroy, but also to make them stronger.

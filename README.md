@@ -5,13 +5,17 @@
 </p>
 <br>
 
-# 💫 WhoamI:
+# 💫 WhoamI: 
+
 
 <h3>
-   <img align="left" src="https://i.pinimg.com/1200x/d6/17/65/d61765bcf71b83f38d704d480a5e319f.jpg" width="300" hieght="300" alt="mourad tiferras">
-   &nbsp;  &nbsp;  &nbsp; I'm Mourad (just a simple person) with a great passion to all thing related to IT, and electronics from a very young age. I'm a drop-out CS (computer science) student after 2y and half (due to the poor IT training with heavy cources not related to technology). Currently, I have just started self-learning in IT and trying harder while navigating through life.<br> 
+   
+   &nbsp;  &nbsp;  &nbsp; I'm Mourad (just a simple person) with a great passion to all thing related to IT, and electronics from a very young age. I'm a drop-out CS (computer science) student after 2y and half <b> (due to the poor IT training with heavy cources not related to technology)</b>. Currently, I have just started self-learning in IT and trying harder while navigating through life.
+   <br>
+   <br>
+   &nbsp;  &nbsp;  &nbsp; Even that I decide after to continue my academic education, I don’t put much belief in degrees, because the solid skills I’ve gained through self-learning are more powerful and practical than what many acquire in a 4/3 years in a CS degree.<br> 
    <br> 
-   &nbsp;  &nbsp;  &nbsp; I've chosen the path of self-learning to grow my skills in software development, with a strong focus on discovering vulnerabilities in code. I'm passionate about breaking the things developers build not only to destroy, but also to make them stronger.
+   &nbsp;  &nbsp;  &nbsp; I've chosen the path of self-learning to grow my skills in software development, with a strong focus on discovering vulnerabilities in code. I'm passionate about breaking the things developers build not only to destroy, but also to make them stronger by curiosity and love.
    <br>
 </h3>
 
@@ -20,7 +24,7 @@
 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp; ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) &nbsp; ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) &nbsp; ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp; ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) &nbsp; ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp; ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ## 🚀 My Interests
 

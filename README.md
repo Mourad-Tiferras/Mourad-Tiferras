@@ -13,9 +13,9 @@
    &nbsp;  &nbsp;  &nbsp; I'm Mourad (just a simple person) with a great passion to all thing related to IT, and electronics from a very young age. I'm a drop-out CS (computer science) student after 2y and half <b> (due to the poor IT training with heavy cources not related to technology)</b>. Currently, I have just started self-learning in IT and trying harder while navigating through life.
    <br>
    <br>
-   &nbsp;  &nbsp;  &nbsp; Even that I decide after to continue my academic education, I don’t put much belief in degrees, because the solid skills I’ve gained through self-learning are more powerful and practical than what many acquire in a 4/3 years in a CS degree.<br> 
-   <br> 
-   &nbsp;  &nbsp;  &nbsp; I've chosen the path of self-learning to grow my skills in software development, with a strong focus on discovering vulnerabilities in code. I'm passionate about breaking the things developers build not only to destroy, but also to make them stronger by curiosity and love.
+   &nbsp;  &nbsp;  &nbsp; I believe that strong skills and real-world practice are more valuable than just a degree. My main focus is on software development and security, especially discovering and fixing vulnerabilities in code. I enjoy “breaking things” not to destroy, but to understand, improve, and make them secure.
+
+&nbsp;  &nbsp;  &nbsp; Currently, I’m building projects, sharpening my skills, and growing my knowledge every day.
    <br>
 </h3>
 

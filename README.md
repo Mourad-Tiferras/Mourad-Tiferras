@@ -10,7 +10,7 @@
 
 <h3>
    
-   &nbsp;  &nbsp;  &nbsp; I'm Mourad (just a simple person) with a great passion to all thing related to IT, and electronics from a very young age. I'm a drop-out CS (computer science) student after 2y and half <b> (due to the poor IT training with heavy cources not related to technology)</b>. Currently, I have just started self-learning in IT and trying harder while navigating through life.
+   &nbsp;  &nbsp;  &nbsp; I'm Mourad (just a simple person) with a great passion to all thing related to IT, and electronics from a very young age. I'm a drop-out CS (computer science) student after 2y and half <b> (due to the poor IT training with heavy courses not related to technology)</b>. Currently, I have just started self-learning in IT and trying harder while navigating through life.
    <br>
    <br>
    &nbsp;  &nbsp;  &nbsp; I believe that strong skills and real-world practice are more valuable than just a degree. My main focus is on software development and security, especially discovering and fixing vulnerabilities in code. I enjoy “breaking things” not to destroy, but to understand, improve, and make them secure.

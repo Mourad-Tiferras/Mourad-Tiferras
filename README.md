@@ -36,7 +36,7 @@
 # 📊 GitHub Stats:
 <img align="left" src="https://pbs.twimg.com/media/EQ4qWwHWkAAJdTr.jpg" alt="mourad tiferras">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M0R4D-Tiferras-self-learning-account&hide_progress=true&layout=donut-vertical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mourad-Tiferras&hide_progress=true&layout=donut-vertical)
 
 
 ### 💰 You can buy me coffee :)

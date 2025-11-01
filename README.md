@@ -1,6 +1,6 @@
 # &nbsp; &nbsp; Welcome to my profile &nbsp; :)  <br>
 <p>
-   <img align="center" src="https://media.licdn.com/dms/image/v2/D4E16AQGU2S-83Oxdkw/profile-displaybackgroundimage-shrink_350_1400/B4EZk_xPjjIkAY-/0/1757711498119?e=1760572800&v=beta&t=Ld1QyB3P8T37B3yfzD6mDNYyFR9rN8KXV6eXcm2fUHs" alt="mourad tiferras">
+   <img align="center" src="" alt="mourad tiferras">
    <br>
 </p>
 <br>
@@ -39,5 +39,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mourad-Tiferras&hide_progress=true&layout=donut-vertical)
 
 
-### 💰 You can buy me coffee :)
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ph4nt0m)

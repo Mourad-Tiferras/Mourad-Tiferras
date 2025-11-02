@@ -15,7 +15,7 @@
    <br>
    &nbsp;  &nbsp;  &nbsp; I believe that strong skills and real-world practice are more valuable than just a degree. My main focus is on software development and security, especially discovering and fixing vulnerabilities in code. I enjoy “breaking things” not to destroy, but to understand, improve, and make them secure.
 
-&nbsp;  &nbsp;  &nbsp; Currently, I’m building projects, sharpening my skills, and growing my knowledge every day.
+&nbsp;  &nbsp;  &nbsp; Currently, I’m building projects in order to sharp my skills.
    <br>
 </h3>
 

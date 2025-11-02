@@ -1,7 +1,7 @@
 # &nbsp; &nbsp; Welcome to my profile &nbsp; :)  <br>
 <p>
-   <img align="left" src="https://github.com/Mourad-Tiferras/Mourad-Tiferras/blob/main/src/xT0BKhvsmCk0gGgClO.gif" alt="mourad tiferras">
-   <img align="center" src="https://github.com/Mourad-Tiferras/Mourad-Tiferras/blob/main/src/linus_quote.jpeg" alt="mourad tiferras">
+   <img align="left" src="https://github.com/Mourad-Tiferras/Mourad-Tiferras/blob/main/src/linus_quote.jpeg" alt="mourad tiferras">
+   <img align="center" src="https://github.com/Mourad-Tiferras/Mourad-Tiferras/blob/main/src/xT0BKhvsmCk0gGgClO.gif" alt="mourad tiferras">
    <br>
 </p>
 <br>

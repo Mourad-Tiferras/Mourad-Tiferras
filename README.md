@@ -35,6 +35,6 @@
 
 # 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mourad-Tiferras&hide_progress=true&layout=donut-vertical)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mourad-Tiferras&layout=pie)](https://github.com/Pranesh-2005/github-readme-stats)
 
 
